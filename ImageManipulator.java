@@ -10,7 +10,7 @@ import javax.swing.*;
 /**
  * Image processing program with crop, mirror, and greyscale operations.
  *
- * @author Vats Upadhyay A00454163
+ * @author Vats Upadhyay 
  */
 public class ImageManipulator {
 
